@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mySearchbar/static/css/main.7e6f55b5.chunk.css",
+    "main.js": "/mySearchbar/static/js/main.98f68a2a.chunk.js",
+    "main.js.map": "/mySearchbar/static/js/main.98f68a2a.chunk.js.map",
+    "runtime-main.js": "/mySearchbar/static/js/runtime-main.738da0fe.js",
+    "runtime-main.js.map": "/mySearchbar/static/js/runtime-main.738da0fe.js.map",
+    "static/js/2.311b0804.chunk.js": "/mySearchbar/static/js/2.311b0804.chunk.js",
+    "static/js/2.311b0804.chunk.js.map": "/mySearchbar/static/js/2.311b0804.chunk.js.map",
+    "index.html": "/mySearchbar/index.html",
+    "static/css/main.7e6f55b5.chunk.css.map": "/mySearchbar/static/css/main.7e6f55b5.chunk.css.map",
+    "static/js/2.311b0804.chunk.js.LICENSE.txt": "/mySearchbar/static/js/2.311b0804.chunk.js.LICENSE.txt",
+    "static/media/marvel-logo.58b8e3c4.png": "/mySearchbar/static/media/marvel-logo.58b8e3c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738da0fe.js",
+    "static/js/2.311b0804.chunk.js",
+    "static/css/main.7e6f55b5.chunk.css",
+    "static/js/main.98f68a2a.chunk.js"
+  ]
+}
